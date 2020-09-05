@@ -6,7 +6,7 @@
   "dependencies": {
     "@koa/cors": "^2.2.3",
     "axios": "^0.19.2",
-    "node-sass": "^4.12.0",
+    "node-sass": "^4.13.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-redux": "^7.2.0",
